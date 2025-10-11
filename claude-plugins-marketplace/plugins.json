@@ -1,14 +1,11 @@
 {
-  "name": "Claude Productivity Plugins",
-  "description": "Curated collection of high-quality Claude Code plugins for enhanced productivity and automation",
+  "name": "Claude Nights Watch Marketplace",
+  "description": "Official marketplace for Claude Nights Watch and related productivity plugins",
   "maintainer": {
     "name": "Aniket Karne",
     "email": "[email protected]",
     "url": "https://github.com/aniketkarne"
   },
-  "repository": "https://github.com/aniketkarne/claude-plugins-marketplace",
-  "version": "1.0.0",
-  "lastUpdated": "2025-10-11",
   "plugins": [
     {
       "name": "claude-nights-watch",
@@ -54,10 +51,10 @@
         "ccusage": "optional"
       },
       "screenshots": [
-        "https://github.com/aniketkarne/ClaudeNightsWatch/raw/main/.github/screenshots/status.png",
-        "https://github.com/aniketkarne/ClaudeNightsWatch/raw/main/.github/screenshots/logs.png"
+        "https://github.com/aniketkarne/ClaudeNightsWatch/raw/main/docs/screenshots/status.png",
+        "https://github.com/aniketkarne/ClaudeNightsWatch/raw/main/docs/screenshots/logs.png"
       ],
-      "documentation": "https://github.com/aniketkarne/ClaudeNightsWatch/blob/main/README.md",
+      "documentation": "https://github.com/aniketkarne/ClaudeNightsWatch/blob/main/PLUGIN_INSTALLATION.md",
       "featured": true,
       "verified": true,
       "downloads": 0,
